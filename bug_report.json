@@ -3,7 +3,7 @@
  "Title": "The SAVE DATA button is smaller than the others",
  "Severity": "trivial",
  "Priority": "low",
- "Environment": "Redmi Note 10Pro, Android 12",
+ "Environment": "Redmi Note 10Pro_Android 12",
  "AR": "The application buttons have one view",
- "ER": "The SAVE DATA button is smaller than the others",
+ "ER": "The SAVE DATA button is smaller than the others"
 }
