@@ -4,6 +4,12 @@
  "Severity": "trivial",
  "Priority": "low",
  "Environment": "Redmi Note 10Pro_Android 12",
- "AR": "The application buttons have one view",
- "ER": "The SAVE DATA button is smaller than the others"
+ "Steps":
+   {
+    "1": "Open To Do List app",
+   	"2": "Open New List page",
+   	"3": "Enter any text"
+	},
+ "ER": "The SAVE DATA button is smaller than the others",
+ "AR": "The application buttons have one view"
 }
